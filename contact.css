@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.main {
+  border: 2px solid;
+  border-radius: 2rem;
+  width: 50%;
+  max-width: 600px;
+  
+}
+.head{
+    font-family: cursive;
+}
+
+input{
+    height: 50%;
+}

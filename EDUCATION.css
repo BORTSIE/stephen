@@ -1,0 +1,31 @@
+body {
+  background-image: url(240_F_354.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p {
+  margin-top: 20%;
+  margin-left: 5%;
+  font-family: cursive;
+}
+.U {
+  display: flex;
+}
+.M {
+  background-color: orangered;
+  color: white;
+  padding-left: 3%;
+}
+.m {
+  background-color: black;
+  color: white;
+  padding-left: 3%;
+}
+.cl {
+  width: 60px;
+  height: 50px;
+}
+
+a{
+  text-decoration: none;
+}

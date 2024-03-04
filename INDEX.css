@@ -1,0 +1,27 @@
+.a {
+  display: flex;
+  background-color: yellow;
+}
+.b {
+  padding-left: 10%;
+  margin-top: 30%;
+  font-size: 70px;
+  text-decoration: ;
+}
+.c {
+  width: 70%;
+  height: 50%;
+}
+body {
+  height: 50px;
+  border-radius: ;
+}
+.d {
+  margin-top: 50%;
+  margin-right: 5%;
+}
+.e {
+  background-color: blueviolet;
+  color: white;
+  text-decoration: none;
+}
